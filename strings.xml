@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Travel News</string>
+    <string name="no_network">No network connection.</string>
+    <string name="no_news">No news articles have been found.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Travel News Settings</string>
+    <string name="settings_section">Section</string>
+    <string name="settings_section_default">travel</string>
+
+    <string-array name="settings_array">
+        <item>News</item>
+        <item>Travel</item>
+        <item>Fashion</item>
+        <item>Books</item>
+     </string-array>
+
+    <string-array name="settings_values">
+        <item>news</item>
+        <item>travel</item>
+        <item>fashion</item>
+        <item>books</item>
+    </string-array>
+
+    <string name="choose_section">Choose a section.</string>
+</resources>
